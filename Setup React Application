@@ -1,0 +1,3 @@
+npx create-react-app login-register-app
+cd login-register-app
+npm install react-router-dom
